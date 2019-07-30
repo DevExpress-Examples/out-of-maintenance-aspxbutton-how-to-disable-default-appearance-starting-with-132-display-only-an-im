@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # ASPxButton - How to disable default appearance starting with 13.2 (display only an image)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/132)**
+**[[Run Online]](https://codecentral.devexpress.com/132/)**
 <!-- run online end -->
 
 
